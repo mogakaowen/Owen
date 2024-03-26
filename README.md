@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mogakaowen" alt="mogakaowen" /></a> </p>
 
-- 🔭 I’m currently working on **an Enterprise Resource Management Project**
+- 🔭 I’m currently working on **an Insurance Products Project**
 
 - 🌱 I’m currently learning **React, Next.js**
 
