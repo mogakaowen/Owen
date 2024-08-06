@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">Languages and Tools</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
@@ -56,6 +56,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mogakaowen&show_icons=true&locale=en&layout=compact&theme=dark" alt="mogakaowen" /></p>
 
