@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A passionate Full Stack Software Developer from Nairobi, Kenya.</h3>
+<h3 align="center">A passionate Software Developer from Nairobi, Kenya.</h3>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=mogakaowen&theme=onedark">
