@@ -74,7 +74,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mogakaowen&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mogakaowen&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="mogakaowen" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mogakaowen&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Github Streak" /></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mogakaowen&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
